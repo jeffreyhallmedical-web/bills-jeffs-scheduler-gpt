@@ -1,0 +1,1 @@
+{"name":"bills-jeffs-scheduler-gpt","private":true,"version":"1.0.0","scripts":{"build":"mkdir -p dist && cp index.html app.js styles.css manifest.webmanifest app-icon.svg dist/"},"dependencies":{"@netlify/blobs":"^10.0.0"}}
